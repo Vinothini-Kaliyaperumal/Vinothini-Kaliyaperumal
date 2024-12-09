@@ -1,14 +1,11 @@
 # Hi there! 👋 I'm Vinothini
 
-I’m a passionate Frontend Developer who loves building intuitive and responsive web applications. I enjoy coding, learning new technologies.
-
-
+I’m a Frontend Developer passionate about building responsive and user-friendly web applications. I enjoy coding and constantly learning new technologies to improve my skills.
 
 ## 👨‍💻 About Me
-- 🎓 Education: Bachelor of Science (BSc) in ComputerScience.
+- 🎓 Education: Bachelor of Science in Mathematics (BSc).
 - 💼 Currently working as Frontend Developer at Ebrain Technology.
-- 🌱 I’m currently learning  React .
-
+- 🌱 I’m currently learning React .
 
 ## 🛠 Skills
 
@@ -24,8 +21,7 @@ I’m a passionate Frontend Developer who loves building intuitive and responsiv
 ## 🚀 Projects
 
 
-## 📫 Connect with Me
+## 🌐 Connect with me
 
-- *Email:* mailto:kvino1812@gmail.com
-- *LinkedIn:* www.linkedin.com/in/vinothini-kaliyaperumal-025b37321(#)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nagasri-venkat-r-a50402217/)
 
