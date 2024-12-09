@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I’m a Frontend Developer passionate about building responsive and user-friendly web applications. I enjoy coding and constantly learning new technologies to improve my skills.
+I’m a **Frontend Developer** passionate about building responsive and user-friendly web applications. I enjoy coding and constantly learning new technologies to improve my skills.
 
 - 🎓 Education: Bachelor of Science in Mathematics (BSc).
 - 💼 Currently working as Frontend Developer at Ebrain Technology.
@@ -37,7 +37,7 @@ information.
 - **API Integration**: Enabled real-time data retrieval via API integration.
 ### Technologies usedin Projects
 - **Programming languages**: JavaScript
-- **Front-end technologies **: HTML5, CSS3, Bootstrap5
+- **Front-end technologies**: HTML5, CSS3, Bootstrap5
 
 ## 🌐 Connect with me
 
