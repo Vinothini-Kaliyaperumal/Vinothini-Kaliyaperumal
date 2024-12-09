@@ -24,7 +24,7 @@ I’m a Frontend Developer passionate about building responsive and user-friendl
 
 ### Bill MakingSystem withAPI Integration
 
-**Overview :** Designed and developed a comprehensive *Bill - Making
+** - Overview :** Designed and developed a comprehensive *Bill - Making
 System utilizing JavaScript, HTML5,CSS3 and Bootstrap5*, featuring
 real-time data integration through API connectivity and dynamic
 invoice generation.
