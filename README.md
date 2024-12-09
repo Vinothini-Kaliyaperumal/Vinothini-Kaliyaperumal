@@ -23,8 +23,8 @@ I’m a Frontend Developer passionate about building responsive and user-friendl
 ## 🚀 Projects
 
 ### Bill MakingSystem withAPI Integration
-  - Designed and implemented responsive UI using React.js and Bootstra
-** - Overview :** Designed and developed a comprehensive *Bill - Making
+
+- **Overview**: Designed and developed a comprehensive *Bill - Making
 System utilizing JavaScript, HTML5,CSS3 and Bootstrap5*, featuring
 real-time data integration through API connectivity and dynamic
 invoice generation.
