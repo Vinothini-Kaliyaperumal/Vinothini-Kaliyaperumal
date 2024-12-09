@@ -28,7 +28,8 @@ I’m a Frontend Developer passionate about building responsive and user-friendl
 System utilizing JavaScript, HTML5,CSS3 and Bootstrap5*, featuring
 real-time data integration through API connectivity and dynamic
 invoice generation.
-###Key Features
+
+### Key Features
 - **Dynamic Calculations**: Developed efficient bill generation calculations.
 - **Navigation**: Designed intuitive navigation for enhanced user experience.
 - **Invoice Templates**: Created detailed templates with essential
