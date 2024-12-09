@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Vinothini
+# Hi there! 👋 I'm Vinothini Kaliyaperumal
 
 I’m a Frontend Developer passionate about building responsive and user-friendly web applications. I enjoy coding and constantly learning new technologies to improve my skills.
 
@@ -24,4 +24,9 @@ I’m a Frontend Developer passionate about building responsive and user-friendl
 ## 🌐 Connect with me
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nagasri-venkat-r-a50402217/)
+
+## 📧 Contact
+
+![Email](mailto:kvino1812@gmail.com)
+⭐️ From [Vinothini Kaliyaperumal](https://github.com/NagaSriVenkatR)
 
