@@ -1,8 +1,10 @@
 # Hi there! 👋 I'm Vinothini Kaliyaperumal
 
+
+## 🚀 About Me
+
 I’m a Frontend Developer passionate about building responsive and user-friendly web applications. I enjoy coding and constantly learning new technologies to improve my skills.
 
-## 👨‍💻 About Me
 - 🎓 Education: Bachelor of Science in Mathematics (BSc).
 - 💼 Currently working as Frontend Developer at Ebrain Technology.
 - 🌱 I’m currently learning React .
