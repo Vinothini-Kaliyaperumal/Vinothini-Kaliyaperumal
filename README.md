@@ -22,7 +22,7 @@ I’m a Frontend Developer passionate about building responsive and user-friendl
 
 ## 🚀 Projects
 
-Bill MakingSystem withAPI Integration
+ About Me Bill
 
 Overview : Designed and developed a comprehensive Bill - Making
 System utilizing JavaScript, HTML5,CSS3 and Bootstrap5, featuring
