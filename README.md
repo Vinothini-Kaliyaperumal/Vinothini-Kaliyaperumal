@@ -29,6 +29,6 @@ I’m a Frontend Developer passionate about building responsive and user-friendl
 
 ## 📧 Contact
 
-![Email](mailto:kvino1812@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kvino1812@gmail.com)
 ⭐️ From [Vinothini Kaliyaperumal](https://github.com/NagaSriVenkatR)
 
